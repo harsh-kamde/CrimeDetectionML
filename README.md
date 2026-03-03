@@ -1,4 +1,4 @@
-# CrimeDetectionML: Detecting the criminal activities in CCTV videos
+# CrimeDetectionML: Detecting the criminal activities in CCTV videos 
 
 ## Overview: 
 In this project we used the deep learning techniques like CNN and LSTM to identify the activities in a video. 
