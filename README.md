@@ -1,6 +1,6 @@
 # CrimeDetectionML: Detecting the criminal activities in CCTV videos 
 
-## Overview: 
+## Overview:
 In this project we used the deep learning techniques like CNN and LSTM to identify the activities in a video. 
 If a criminal activity is found then the clip is cut out and stored to the firebase.
 The generated clip is stored along with other information i.e. accuracy, crime_type, time-date
